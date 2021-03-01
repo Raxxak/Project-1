@@ -5,4 +5,6 @@ DecayAnalysis_Likelihood.py calculates the likelihood curves, critical lambda va
 
 DecayAnalysis_LLR.py calculates and plots the Log-Likelihood ratio.
 
-Alpha and the two lambdas can be specied in each of the script. DecayAnalysis scripts have to be in the same folder as the output to work, if not the path to the output can be specified in the script itself.
+Alpha and the two lambdas can be specied in each of the script. 
+
+DecayAnalysis scripts have to be in the same folder as the output to work, if not the path to the output can be specified in the script itself.
